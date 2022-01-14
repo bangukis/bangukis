@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://wakatime.com/@621c6d6b-c5d8-477d-be7c-ba795b482ae2"><img src="https://wakatime.com/badge/user/621c6d6b-c5d8-477d-be7c-ba795b482ae2.svg" alt="Total time coded since Jan 10 2022" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bangfaroqi&label=Profile%20views&color=0e75b6&style=flat" alt="bangfaroqi" />
+  <img src="https://komarev.com/ghpvc/?username=bangukis&label=Profile%20views&color=0e75b6&style=flat" alt="bangukis" />
 </div>
 
 <div align="center">
@@ -8,12 +8,12 @@
 </div>
 
 ## 
-<img width="55%" align="right" alt="Github" src="https://github-readme-streak-stats.herokuapp.com/?user=bangfaroqi" alt="bangfaroqi" />
+<img width="55%" align="right" alt="Github" src="https://github-readme-streak-stats.herokuapp.com/?user=bangukis" alt="bangukis" />
 
 [![WhatpsApp Badge](https://img.shields.io/badge/-WhatsApp-2cee00?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/628987830346/)](https://wa.me/628987830346/)
-[![Facebook Badge](https://img.shields.io/badge/-bangfaroqi-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/bangfaroqi/)](https://www.facebook.com/bangfaroqi/)
-[![Instagram Badge](https://img.shields.io/badge/-bangfaroqi-red?style=flat&logo=instagram&logoColor=white&link=https://ig.com/bangfaroqi/)](https://ig.com/bangfaroqi/)
-[![Twitter Badge](https://img.shields.io/badge/-bangfaroqi-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bangfaroqi/)](https://www.twitter.com/bangfaroqi/)
+[![Facebook Badge](https://img.shields.io/badge/-bangukis-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/bangukis/)](https://www.facebook.com/bangukis/)
+[![Instagram Badge](https://img.shields.io/badge/-bangukis-red?style=flat&logo=instagram&logoColor=white&link=https://ig.com/bangukis/)](https://ig.com/bangukis/)
+[![Twitter Badge](https://img.shields.io/badge/-bangukis-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bangukis/)](https://www.twitter.com/bangukis/)
 
 
 - 🔭 I’m currently working on My Blog, Github Project
@@ -73,6 +73,6 @@
   </kbd>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangfaroqi&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/bangfaroqi/)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangukis&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/bangukis/)
 
-<h6 align="right">Made with ❤️ by <a href="https://github.com/bangfaroqi">bangfaroqi</a></h6>
+<h6 align="right">Made with ❤️ by <a href="https://github.com/bangukis">bangukis</a></h6>

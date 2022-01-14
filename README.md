@@ -13,7 +13,7 @@
 [![WhatpsApp Badge](https://img.shields.io/badge/-WhatsApp-2cee00?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/628987830346/)](https://wa.me/628987830346/)
 [![Facebook Badge](https://img.shields.io/badge/-bangukiss-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/bangukiss/)](https://www.facebook.com/bangukiss/)
 [![Instagram Badge](https://img.shields.io/badge/-bangukis-red?style=flat&logo=instagram&logoColor=white&link=https://ig.com/bangukis/)](https://ig.com/bangukis/)
-[![Twitter Badge](https://img.shields.io/badge/-bangukisss-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bangukisss/)](https://www.twitter.com/bangukiss/)
+[![Twitter Badge](https://img.shields.io/badge/-bangukiss-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bangukiss/)](https://www.twitter.com/bangukiss/)
 
 
 - 🔭 I’m currently working on My Blog, Github Project
